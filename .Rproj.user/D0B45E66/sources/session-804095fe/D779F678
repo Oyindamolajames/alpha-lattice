@@ -1,0 +1,26 @@
+{
+    "id": "D779F678",
+    "path": "~/Documents/Project/alpha_lattice/script.R",
+    "project_path": "script.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1696690312356.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "31,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1696690610,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1696690610678,
+    "read_only": false,
+    "read_only_alternatives": []
+}
